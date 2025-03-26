@@ -18,7 +18,4 @@ O curso tem como objetivo principal capacitar profissionais da área da saúde e
 
 ### Instrutor:
 
-Tiago Eugenio de Melo 
-Professor Pesquisador da Trilha de Assistentes de Voz e Inteligência Artificial em Samsung Ocean
-Doutor em Informática pela UFAM, Mestre em Computação pela Unicamp, Especialista em Geoprocessamento
-Bacharel em Processamento de Dados pela UFAM e Advogado.
+**Tiago Eugenio de Melo**; Professor Pesquisador da Trilha de Assistentes de Voz e Inteligência Artificial em Samsung Ocean, Doutor em Informática pela UFAM, Mestre em Computação pela Unicamp, Especialista em Geoprocessamento e Bacharel em Processamento de Dados pela UFAM e Advogado.
